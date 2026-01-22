@@ -1,5 +1,15 @@
 ldd3: Linux Device Drivers 3 examples updated to work with recent kernels
 
+# Assignment 7 requirments
+Assignment 7 part 2 additional requirements 
+
+:white_check_mark: Assignment 7 repository should contain the minor changes to personalize the hello module 
+
+:white_check_mark: include faulty-oops.md : check out faulty-oops.md in this repo
+ :white_check_mark: assignment 5 repository updated to include the ldd3 components https://github.com/cu-ecen-aeld/assignment-5-meshalalhazmi/tree/assignment-5-temp
+
+
+
 # About
 -----
 
